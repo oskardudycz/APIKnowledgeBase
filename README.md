@@ -1,4 +1,4 @@
-# APIKnowledge
+# API Knowledge Base
 
 ## REST
 * [REST Best practices by Vinay Sahni](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#useful-post-responses)
